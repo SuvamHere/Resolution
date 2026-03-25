@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "resolution_week1_SuvamHere"
+version = "0.0.1"
+dependencies = []
+
+[project.scripts]
+todo = "resolution_week1_SuvamHere.main:main"
+[tool.hatch.build.targets.wheel]
+packages = ["src/resolution_week1_flamex"]
