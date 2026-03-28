@@ -2,13 +2,19 @@
   {
     "id": 1,
     "task": "Finishing Resolution",
+    "done": true,
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "task": "Getting Free Stickers",
     "done": false,
     "priority": "medium"
   },
   {
-    "id": 3,
-    "task": "eating chatpat",
-    "done": true,
+    "id": 5,
+    "task": "Reading Atomic Habits",
+    "done": false,
     "priority": "medium"
   }
 ]
